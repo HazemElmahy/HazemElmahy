@@ -20,7 +20,7 @@
     <img align="center" alt="Linux" width="40px" src="https://seeklogo.net/wp-content/uploads/2020/03/Linux-logo.png"/> 
     <img align="center" alt="PostgreSQL" width="40px" src="https://www.unixmen.com/wp-content/uploads/2017/07/postgresql-logo.png"/> 
     <img align="center" alt="Docker" width="50px" src="https://i0.wp.com/www.docker.com/blog/wp-content/uploads/2013/11/homepage-docker-logo.png?fit=300%2C248&ssl=1"/>
-    <img align="center" alt="Kubernetes" width="50px" src="https://jhooq.com/wp-content/uploads/2019/06/Webinar_K8S101_K8slogo.png"/>,...
+    <img align="center" alt="Kubernetes" width="50px" src="https://jhooq.com/wp-content/uploads/2019/06/Webinar_K8S101_K8slogo.png"/>
 </div>
 <br/>
 
@@ -28,7 +28,7 @@
     <h3>Plus some web desiging and SEO skills:</h3>
     <img align="center" alt="SASS" width="30px" src="https://cdn.freebiesupply.com/logos/thumbs/2x/sass-1-logo.png"/> 
     <img align="center" alt="BOOTSTRAP" width="30px" src="https://pluspng.com/img-png/bootstrap-png-bootstrap-512.png"/> 
- <h4> ,and more useless css stuff</h4>
+,and more useless css stuff
 </div>
 <br/><br/>
 ### CONTACT ME:
