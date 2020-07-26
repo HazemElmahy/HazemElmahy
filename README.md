@@ -1,4 +1,10 @@
-<h2>My name is <h1>Hazem Elmahy</h1></h2>
+## Hi I'm Hazem Elmahy 21 years old Python and Javascript developer
+### Experienced with Django framework, Django RESTful API, ReactJs, ReduxJs, NextJs ...
+### also have experience in using Linux, Docker, Kubernetes and PostgreSQL...
+### Plus some web desiging and SEO skills > SASS, Bootstrap...
+
+### CONTACT ME:
+<br/>
 <a href="https://www.youtube.com/channel/UCOlffIASIE4veM6mFfQw6hw">
   <img align="left" alt="Hazem Elmahy - Youtube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg"/>
 </a>
