@@ -3,8 +3,8 @@
 ### Experienced with Django framework, Django RESTful API, ReactJs, ReduxJs, NextJs ...
 <div> 
     <img align="left" alt="Hazem Elmahy - Facebook" width="40px" src="https://cdn.iconscout.com/icon/free/png-256/django-12-1175186.png"/> 
-    <img align="left" alt="Hazem Elmahy - Facebook" width="50px" src="https://files.realpython.com/media/djang-rest-framework-logo.37921ea75c09.png"/> 
-    <img align="left" alt="Hazem Elmahy - Facebook" width="50px" src="https://quintagroup.com/cms/js/js-image/react.js-logo.png/@@images/a9bf22bd-373a-4fae-a900-c22fd12c87c7.png"/> 
+    <img align="left" alt="Hazem Elmahy - Facebook" width="60px" src="https://files.realpython.com/media/djang-rest-framework-logo.37921ea75c09.png"/> 
+    <img align="left" alt="Hazem Elmahy - Facebook" width="60px" src="https://quintagroup.com/cms/js/js-image/react.js-logo.png/@@images/a9bf22bd-373a-4fae-a900-c22fd12c87c7.png"/> 
     <img align="left" alt="Hazem Elmahy - Facebook" width="40px" src="https://upload.wikimedia.org/wikipedia/commons/4/49/Redux.png"/> 
     <img align="left" alt="Hazem Elmahy - Facebook" width="50px" src="https://seeklogo.com/images/N/next-js-logo-7929BCD36F-seeklogo.com.png"/> 
     </div>
