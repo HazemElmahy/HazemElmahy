@@ -25,11 +25,21 @@
 
 <div> 
     <img align="center" alt="SASS" width="50px" src="https://cdn.freebiesupply.com/logos/thumbs/2x/sass-1-logo.png"/> 
-    <img align="center" alt="BOOTSTRAP" width="50px" src="https://miro.medium.com/max/320/0*_rAD9NgK7l6KSlNc.png"/> 
-    <img align="center" alt="BOOTSTRAP" width="40px" src="https://react.semantic-ui.com/logo.png"/> 
+    <img align="center" alt="Bootsrap" width="50px" src="https://miro.medium.com/max/320/0*_rAD9NgK7l6KSlNc.png"/> 
+    <img align="center" alt="Semantic UI" width="40px" src="https://react.semantic-ui.com/logo.png"/> 
 ,..and more useless css stuff
  
 </div>
+
+<br/>
+
+<div> 
+ <h3>Extra knowledge for big brain</h3>
+    <img align="center" alt="Tensoflow" width="50px" src="https://seeklogo.com/images/T/tensorflow-logo-AE5100E55E-seeklogo.com.png"/> 
+ 
+</div>
+
+
 <br/><br/>
 <h3> REACH ME: </h3>
 <br/>
