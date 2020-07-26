@@ -1,9 +1,13 @@
-## Hi I'm Hazem Elmahy 
-## 21 years old Python and Javascript developer
+<h1>Hi I'm Hazem Elmahy </h1>
+<div> 
+ <h2>21 years old Python and Javascript developer</h2>
+    <img align="left" alt="Hazem Elmahy - Facebook" width="60px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0a/Python.svg/1024px-Python.svg.png"/> 
+    <img align="left" alt="Hazem Elmahy - Facebook" width="60px" src="https://d1yjjnpx0p53s8.cloudfront.net/styles/logo-thumbnail/s3/082014/js1_0.png?itok=9fCD5b30"/> 
+    </div>
 
 <div> 
-    <h3>Experienced with Django framework, Django RESTful API, ReactJs, ReduxJs, NextJs</h3>
-    <img align="left" alt="Hazem Elmahy - Facebook" width="60px" src="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcRKmS_BIi6yXDibV1uu_OMcuyfaVfBTAh59wQ&usqp=CAU"/> 
+<h3>Experienced with Django framework, Django RESTful API, ReactJs, ReduxJs, NextJs</h3>
+    <img align="left" alt="Hazem Elmahy - Facebook" width="55px" src="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcRKmS_BIi6yXDibV1uu_OMcuyfaVfBTAh59wQ&usqp=CAU"/> 
     <img align="left" alt="Hazem Elmahy - Facebook" width="60px" src="https://files.realpython.com/media/djang-rest-framework-logo.37921ea75c09.png"/> 
     <img align="left" alt="Hazem Elmahy - Facebook" width="60px" src="https://quintagroup.com/cms/js/js-image/react.js-logo.png/@@images/a9bf22bd-373a-4fae-a900-c22fd12c87c7.png"/> 
     <img align="left" alt="Hazem Elmahy - Facebook" width="40px" src="https://upload.wikimedia.org/wikipedia/commons/4/49/Redux.png"/> 
@@ -11,15 +15,16 @@
     </div>
 <br/>
 <div> 
-    <h3>also have experience in using Linux, Docker, Kubernetes and PostgreSQL...</h3>
+<h3>also have experience in using Linux, Docker, Kubernetes and PostgreSQL...</h3>
     <img align="left" alt="Hazem Elmahy - Facebook" width="40px" src="https://seeklogo.net/wp-content/uploads/2020/03/Linux-logo.png"/> 
     <img align="left" alt="Hazem Elmahy - Facebook" width="40px" src="https://www.unixmen.com/wp-content/uploads/2017/07/postgresql-logo.png"/> 
     <img align="left" alt="Hazem Elmahy - Facebook" width="50px" src="https://i0.wp.com/www.docker.com/blog/wp-content/uploads/2013/11/homepage-docker-logo.png?fit=300%2C248&ssl=1"/>
     <img align="left" alt="Hazem Elmahy - Facebook" width="50px" src="https://jhooq.com/wp-content/uploads/2019/06/Webinar_K8S101_K8slogo.png"/>,...
 </div>
 <br/>
-### Plus some web desiging and SEO skills:
+
 <div> 
+    <h3>Plus some web desiging and SEO skills:</h3>
     <img align="left" alt="Hazem Elmahy - Facebook" width="30px" src="https://cdn.freebiesupply.com/logos/thumbs/2x/sass-1-logo.png"/> 
     <img align="left" alt="Hazem Elmahy - Facebook" width="30px" src="https://pluspng.com/img-png/bootstrap-png-bootstrap-512.png"/> ,...
 </div>
