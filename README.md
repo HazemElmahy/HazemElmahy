@@ -6,7 +6,7 @@
     <img align="left" alt="Hazem Elmahy - Facebook" width="30px" src="https://seeklogo.net/wp-content/uploads/2020/03/Linux-logo.png"/> 
     <img align="left" alt="Hazem Elmahy - Facebook" width="30px" src="https://www.unixmen.com/wp-content/uploads/2017/07/postgresql-logo.png"/> 
     <img align="left" alt="Hazem Elmahy - Facebook" width="30px" src="https://i0.wp.com/www.docker.com/blog/wp-content/uploads/2013/11/homepage-docker-logo.png?fit=300%2C248&ssl=1"/>
-    <img align="left" alt="Hazem Elmahy - Facebook" width="30px" src="https://jhooq.com/wp-content/uploads/2019/06/Webinar_K8S101_K8slogo.png"/>,...
+    <img align="left" alt="Hazem Elmahy - Facebook" width="33px" src="https://jhooq.com/wp-content/uploads/2019/06/Webinar_K8S101_K8slogo.png"/>,...
 </div>
 <br/>
 ### Plus some web desiging and SEO skills:
