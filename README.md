@@ -4,7 +4,8 @@
 ### also have experience in using Linux, Docker, Kubernetes and PostgreSQL...
 ### Plus some web desiging and SEO skills
 <div> 
-    <img align="left" alt="Hazem Elmahy - Facebook" width="30px" src="https://cdn.freebiesupply.com/logos/thumbs/2x/sass-                  1-logo.png"/>,<img align="left" alt="Hazem Elmahy - Facebook" width="30px" src="https://pluspng.com/img-png/bootstrap-png-bootstrap-512.png"/>...
+    <img align="left" alt="Hazem Elmahy - Facebook" width="30px" src="https://cdn.freebiesupply.com/logos/thumbs/2x/sass-                  1-logo.png"/> ,
+    <img align="left" alt="Hazem Elmahy - Facebook" width="30px" src="https://pluspng.com/img-png/bootstrap-png-bootstrap-512.png"/> ,...
 </div>
 
 ### CONTACT ME:
