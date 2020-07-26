@@ -28,10 +28,10 @@
     <img align="center" alt="SASS" width="50px" src="https://cdn.freebiesupply.com/logos/thumbs/2x/sass-1-logo.png"/> 
     <img align="center" alt="Bootsrap" width="50px" src="https://miro.medium.com/max/320/0*_rAD9NgK7l6KSlNc.png"/> 
     <img align="center" alt="Semantic UI" width="40px" src="https://react.semantic-ui.com/logo.png"/> 
-,..and more useless css stuff Strong emphasis, aka bold, with **asterisks** or __underscores__.
+,..and more useless css stuff Strong emphasis, aka bold, with **asterisks** or 
  
 </div>
-
+__underscores__.
 <br/>
 
 <div> 
