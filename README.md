@@ -35,8 +35,8 @@
 
 <div> 
  <h3>Extra knowledge for a bigger brain:</h3>
-    <img align="center" alt="Tensoflow" width="60px" src="https://seeklogo.com/images/T/tensorflow-logo-AE5100E55E-seeklogo.com.png"/> 
- <img align="center" alt="Tensoflow" width="60px" src="https://www.pygame.org/docs/pygame_small.gif"/> 
+    <img align="center" alt="Tensoflow" width="50px" src="https://seeklogo.com/images/T/tensorflow-logo-AE5100E55E-seeklogo.com.png"/> 
+ <img align="center" alt="Pygame" width="65px" src="https://www.pygame.org/docs/pygame_small.gif"/> 
  
 </div>
 
