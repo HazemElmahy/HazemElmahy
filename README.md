@@ -1,10 +1,10 @@
-```diff
+
 - text in red
 + text in green
 ! text in orange
 # text in gray
 @@ text in purple (and bold)@@
-```
+
 @@<h1>Hi I'm Hazem Elmahy </h1>@@
 <div> 
  <h2>21 years old Python and Javascript developer</h2>
