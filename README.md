@@ -4,7 +4,7 @@
 </h1>
 
 <h2> 
- 21 years old  <img align="center" alt="Python" width="60px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0a/Python.svg/1024px-Python.svg.png"/>  and  <img align="center" alt="JavaScript" width="60px" src="https://d1yjjnpx0p53s8.cloudfront.net/styles/logo-thumbnail/s3/082014/js1_0.png?itok=9fCD5b30"/> developer
+ 21 years old, <img align="center" alt="Python" width="60px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0a/Python.svg/1024px-Python.svg.png"/>  and  <img align="center" alt="JavaScript" width="60px" src="https://d1yjjnpx0p53s8.cloudfront.net/styles/logo-thumbnail/s3/082014/js1_0.png?itok=9fCD5b30"/> developer
 </h2>
 <br/>
 <div> 
