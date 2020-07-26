@@ -3,7 +3,7 @@
 
 <div> 
     <h3>Experienced with Django framework, Django RESTful API, ReactJs, ReduxJs, NextJs</h3>
-    <img align="left" alt="Hazem Elmahy - Facebook" width="50px" src="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcRKmS_BIi6yXDibV1uu_OMcuyfaVfBTAh59wQ&usqp=CAU"/> 
+    <img align="left" alt="Hazem Elmahy - Facebook" width="60px" src="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcRKmS_BIi6yXDibV1uu_OMcuyfaVfBTAh59wQ&usqp=CAU"/> 
     <img align="left" alt="Hazem Elmahy - Facebook" width="60px" src="https://files.realpython.com/media/djang-rest-framework-logo.37921ea75c09.png"/> 
     <img align="left" alt="Hazem Elmahy - Facebook" width="60px" src="https://quintagroup.com/cms/js/js-image/react.js-logo.png/@@images/a9bf22bd-373a-4fae-a900-c22fd12c87c7.png"/> 
     <img align="left" alt="Hazem Elmahy - Facebook" width="40px" src="https://upload.wikimedia.org/wikipedia/commons/4/49/Redux.png"/> 
