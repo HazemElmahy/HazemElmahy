@@ -12,6 +12,7 @@
     <img align="center" alt="ReactJs" width="60px" src="https://quintagroup.com/cms/js/js-image/react.js-logo.png/@@images/a9bf22bd-373a-4fae-a900-c22fd12c87c7.png"/> 
     <img align="center" alt="ReduxJs" width="40px" src="https://upload.wikimedia.org/wikipedia/commons/4/49/Redux.png"/> 
     <img align="center" alt="NextJs" width="50px" src="https://seeklogo.com/images/N/next-js-logo-7929BCD36F-seeklogo.com.png"/> 
+ <img align="center" alt="NextJs" width="50px" src="https://s3-us-west-2.amazonaws.com/eaze-blog-assets-production/content/2017/07/12212257/axios-logo.png"/> 
     </div>
 <br/>
 <div> 
