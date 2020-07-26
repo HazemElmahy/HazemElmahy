@@ -1,6 +1,6 @@
-``` diff
-@@Hi I'm Hazem Elmahy@@
-```
+
+# Hi I'm Hazem Elmahy
+
 <div> 
  <h2>21 years old Python and Javascript developer</h2>
     <img align="center" alt="Python" width="60px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0a/Python.svg/1024px-Python.svg.png"/> 
