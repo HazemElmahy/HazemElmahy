@@ -20,7 +20,7 @@
     <img align="center" alt="PostgreSQL" width="40px" src="https://www.unixmen.com/wp-content/uploads/2017/07/postgresql-logo.png"/> 
     <img align="center" alt="Docker" width="50px" src="https://i0.wp.com/www.docker.com/blog/wp-content/uploads/2013/11/homepage-docker-logo.png?fit=300%2C248&ssl=1"/>
     <img align="center" alt="Kubernetes" width="50px" src="https://jhooq.com/wp-content/uploads/2019/06/Webinar_K8S101_K8slogo.png"/>
-   <img align="center" alt="Travis CI" width="50px" src="https://cdn.freebiesupply.com/logos/large/2x/travis-ci-logo-png-transparent.png"/>
+   <img align="center" alt="Travis CI" width="40px" src="https://cdn.freebiesupply.com/logos/large/2x/travis-ci-logo-png-transparent.png"/>
 </div>
 <br/>
 
