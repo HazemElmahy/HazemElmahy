@@ -1,10 +1,10 @@
 <h1>
 <img align="center" src="https://1.bp.blogspot.com/-YhQO9ZIZxTo/Xeucv6JwxJI/AAAAAAAADWk/qv-O0_FwHQ4hGt4H2AvG0tr_r5AF41iyQCLcBGAsYHQ/s1600/18.gif" alt="hi" width="100px">
- I'm Hazem Elmahy
+ I'm Hazem Elmahy.
 </h1>
 
 <h2> 
- 21 years old, <img align="center" alt="Python" width="60px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0a/Python.svg/1024px-Python.svg.png"/>  and  <img align="center" alt="JavaScript" width="60px" src="https://d1yjjnpx0p53s8.cloudfront.net/styles/logo-thumbnail/s3/082014/js1_0.png?itok=9fCD5b30"/> developer
+ 21 years old, <img align="center" alt="Python" width="60px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0a/Python.svg/1024px-Python.svg.png"/>  and  <img align="center" alt="JavaScript" width="60px" src="https://d1yjjnpx0p53s8.cloudfront.net/styles/logo-thumbnail/s3/082014/js1_0.png?itok=9fCD5b30"/> developer;
 </h2>
 <br/>
 <div> 
