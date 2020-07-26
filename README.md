@@ -62,4 +62,4 @@
 <a href="https://www.facebook.com/hazemgamal23/">
   <img align="left" alt="Hazem Elmahy - Facebook" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg"/>
 </a>
-![gif from nerdy.dev](https://vignette.wikia.nocookie.net/speed-challenge-wiki/images/7/77/SpeedWalk.gif/revision/latest/top-crop/width/220/height/220?cb=20190902231422)
+![](https://vignette.wikia.nocookie.net/speed-challenge-wiki/images/7/77/SpeedWalk.gif/revision/latest/top-crop/width/220/height/220?cb=20190902231422)
