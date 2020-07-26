@@ -5,7 +5,6 @@
     <img align="center" alt="JavaScript" width="60px" src="https://d1yjjnpx0p53s8.cloudfront.net/styles/logo-thumbnail/s3/082014/js1_0.png?itok=9fCD5b30"/> 
     </div>
 <br/>
-<br/>
 <div> 
 <h3>Experienced with Django framework, Django RESTful API, ReactJs, ReduxJs, NextJs</h3>
     <img align="center" alt="Django" width="55px" src="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcRKmS_BIi6yXDibV1uu_OMcuyfaVfBTAh59wQ&usqp=CAU"/> 
@@ -26,12 +25,12 @@
 
 <div> 
     <h3>Plus some web desiging and SEO skills:</h3>
-    <img align="center" alt="SASS" width="30px" src="https://cdn.freebiesupply.com/logos/thumbs/2x/sass-1-logo.png"/> 
-    <img align="center" alt="BOOTSTRAP" width="30px" src="https://pluspng.com/img-png/bootstrap-png-bootstrap-512.png"/> 
-,and more useless css stuff
+    <img align="center" alt="SASS" width="50px" src="https://cdn.freebiesupply.com/logos/thumbs/2x/sass-1-logo.png"/> 
+    <img align="center" alt="BOOTSTRAP" width="50px" src="https://pluspng.com/img-png/bootstrap-png-bootstrap-512.png"/> 
+,..and more useless css stuff
 </div>
 <br/><br/>
-### CONTACT ME:
+<h3> CONTACT ME: </h3>
 <br/>
 <a href="https://www.youtube.com/channel/UCOlffIASIE4veM6mFfQw6hw">
   <img align="left" alt="Hazem Elmahy - Youtube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg"/>
