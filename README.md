@@ -2,7 +2,7 @@
 ## 21 years old Python and Javascript developer
 ### Experienced with Django framework, Django RESTful API, ReactJs, ReduxJs, NextJs ...
 ### also have experience in using Linux, Docker, Kubernetes and PostgreSQL...
-<h3> Plus some web desiging and SEO skills  <img align="left" alt="Hazem Elmahy - Facebook" width="30px" src="https://cdn.freebiesupply.com/logos/thumbs/2x/sass-1-logo.png"/>,<img align="left" alt="Hazem Elmahy - Facebook" width="30px" src="https://cdn.freebiesupply.com/logos/thumbs/2x/sass-1-logo.png"/>...</h3>
+<h3> Plus some web desiging and SEO skills  <img align="left" alt="Hazem Elmahy - Facebook" width="30px" src="https://cdn.freebiesupply.com/logos/thumbs/2x/sass-1-logo.png"/>,<img align="left" alt="Hazem Elmahy - Facebook" width="30px" src="https://pluspng.com/img-png/bootstrap-png-bootstrap-512.png"/>...</h3>
 
 ### CONTACT ME:
 <br/>
