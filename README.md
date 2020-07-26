@@ -6,7 +6,7 @@
     </div>
 <br/>
 <div> 
-<h3>Experienced with Django framework, Django RESTful API, ReactJs, ReduxJs, NextJs</h3>
+<h3>Things I have learned since I started programming:</h3>
     <img align="center" alt="Django" width="55px" src="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcRKmS_BIi6yXDibV1uu_OMcuyfaVfBTAh59wQ&usqp=CAU"/> 
     <img align="center" alt="Django RESTful API" width="60px" src="https://files.realpython.com/media/djang-rest-framework-logo.37921ea75c09.png"/> 
     <img align="center" alt="ReactJs" width="60px" src="https://quintagroup.com/cms/js/js-image/react.js-logo.png/@@images/a9bf22bd-373a-4fae-a900-c22fd12c87c7.png"/> 
@@ -15,7 +15,6 @@
     </div>
 <br/>
 <div> 
-<h3>also have experience in using Linux, Docker, Kubernetes and PostgreSQL...</h3>
     <img align="center" alt="Linux" width="40px" src="https://seeklogo.net/wp-content/uploads/2020/03/Linux-logo.png"/> 
     <img align="center" alt="PostgreSQL" width="40px" src="https://www.unixmen.com/wp-content/uploads/2017/07/postgresql-logo.png"/> 
     <img align="center" alt="Docker" width="50px" src="https://i0.wp.com/www.docker.com/blog/wp-content/uploads/2013/11/homepage-docker-logo.png?fit=300%2C248&ssl=1"/>
@@ -24,13 +23,12 @@
 <br/>
 
 <div> 
-    <h3>Plus some web desiging and SEO skills:</h3>
     <img align="center" alt="SASS" width="50px" src="https://cdn.freebiesupply.com/logos/thumbs/2x/sass-1-logo.png"/> 
     <img align="center" alt="BOOTSTRAP" width="50px" src="https://pluspng.com/img-png/bootstrap-png-bootstrap-512.png"/> 
 ,..and more useless css stuff
 </div>
 <br/><br/>
-<h3> CONTACT ME: </h3>
+<h3> REACH ME: </h3>
 <br/>
 <a href="https://www.youtube.com/channel/UCOlffIASIE4veM6mFfQw6hw">
   <img align="left" alt="Hazem Elmahy - Youtube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg"/>
