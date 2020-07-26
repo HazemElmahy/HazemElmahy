@@ -1,7 +1,8 @@
 ## Hi I'm Hazem Elmahy 
 ## 21 years old Python and Javascript developer
-### Experienced with Django framework, Django RESTful API, ReactJs, ReduxJs, NextJs ...
+
 <div> 
+    <h3>Experienced with Django framework, Django RESTful API, ReactJs, ReduxJs, NextJs</h3>
     <img align="left" alt="Hazem Elmahy - Facebook" width="60px" src="https://webme.ie/wp-content/uploads/2019/08/How-to-run-a-python-django-app-in-docker.png"/> 
     <img align="left" alt="Hazem Elmahy - Facebook" width="60px" src="https://files.realpython.com/media/djang-rest-framework-logo.37921ea75c09.png"/> 
     <img align="left" alt="Hazem Elmahy - Facebook" width="60px" src="https://quintagroup.com/cms/js/js-image/react.js-logo.png/@@images/a9bf22bd-373a-4fae-a900-c22fd12c87c7.png"/> 
