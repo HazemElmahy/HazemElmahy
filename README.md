@@ -3,11 +3,12 @@
 ### Experienced with Django framework, Django RESTful API, ReactJs, ReduxJs, NextJs ...
 ### also have experience in using Linux, Docker, Kubernetes and PostgreSQL...
 <div> 
-    <img align="left" alt="Hazem Elmahy - Facebook" width="30px" src="https://freepngimg.com/thumb/ubuntu/75882-tux-icons-linux-computer-ubuntu-logo.png"/> 
-    <img align="left" alt="Hazem Elmahy - Facebook" width="30px" src="https://i0.wp.com/www.docker.com/blog/wp-content/uploads/2013/11/homepage-docker-logo.png?fit=300%2C248&ssl=1"/>
+    <img align="left" alt="Hazem Elmahy - Facebook" width="30px" src="https://seeklogo.net/wp-content/uploads/2020/03/Linux-logo.png"/> 
     <img align="left" alt="Hazem Elmahy - Facebook" width="30px" src="https://www.unixmen.com/wp-content/uploads/2017/07/postgresql-logo.png"/> 
+    <img align="left" alt="Hazem Elmahy - Facebook" width="30px" src="https://i0.wp.com/www.docker.com/blog/wp-content/uploads/2013/11/homepage-docker-logo.png?fit=300%2C248&ssl=1"/>
     <img align="left" alt="Hazem Elmahy - Facebook" width="30px" src="https://logos-download.com/wp-content/uploads/2018/09/Kubernetes_Logo.png"/>,...
 </div>
+<br/>
 ### Plus some web desiging and SEO skills:
 <div> 
     <img align="left" alt="Hazem Elmahy - Facebook" width="30px" src="https://cdn.freebiesupply.com/logos/thumbs/2x/sass-1-logo.png"/> 
