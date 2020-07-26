@@ -1,5 +1,11 @@
-
-<h1 style="background-color:red;">Hi I'm Hazem Elmahy </h1>
+```diff
+- text in red
++ text in green
+! text in orange
+# text in gray
+@@ text in purple (and bold)@@
+```
+@@<h1>Hi I'm Hazem Elmahy </h1>@@
 <div> 
  <h2>21 years old Python and Javascript developer</h2>
     <img align="center" alt="Python" width="60px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0a/Python.svg/1024px-Python.svg.png"/> 
