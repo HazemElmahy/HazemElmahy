@@ -10,7 +10,7 @@
     <img align="center" alt="Django" width="55px" src="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcRKmS_BIi6yXDibV1uu_OMcuyfaVfBTAh59wQ&usqp=CAU"/> 
     <img align="center" alt="Django RESTful API" width="60px" src="https://files.realpython.com/media/djang-rest-framework-logo.37921ea75c09.png"/> 
     <img align="center" alt="ReactJs" width="60px" src="https://quintagroup.com/cms/js/js-image/react.js-logo.png/@@images/a9bf22bd-373a-4fae-a900-c22fd12c87c7.png"/> 
-    <img align="center" alt="ReduxJs" width="40px" src="https://upload.wikimedia.org/wikipedia/commons/4/49/Redux.png"/> 
+    <img align="center" alt="ReduxJs" width="45px" src="https://upload.wikimedia.org/wikipedia/commons/4/49/Redux.png"/> 
     <img align="center" alt="NextJs" width="50px" src="https://seeklogo.com/images/N/next-js-logo-7929BCD36F-seeklogo.com.png"/> 
  <img align="center" alt="NextJs" width="50px" src="https://s3-us-west-2.amazonaws.com/eaze-blog-assets-production/content/2017/07/12212257/axios-logo.png"/> 
     </div>
@@ -20,6 +20,8 @@
     <img align="center" alt="PostgreSQL" width="40px" src="https://www.unixmen.com/wp-content/uploads/2017/07/postgresql-logo.png"/> 
     <img align="center" alt="Docker" width="50px" src="https://i0.wp.com/www.docker.com/blog/wp-content/uploads/2013/11/homepage-docker-logo.png?fit=300%2C248&ssl=1"/>
     <img align="center" alt="Kubernetes" width="50px" src="https://jhooq.com/wp-content/uploads/2019/06/Webinar_K8S101_K8slogo.png"/>
+   <img align="center" alt="Kubernetes" width="45px" src="https://cdn.freebiesupply.com/logos/thumbs/2x/travis-ci-logo.png"/>
+ 
 </div>
 <br/>
 
