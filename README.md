@@ -4,7 +4,8 @@
     <img align="left" alt="Hazem Elmahy - Facebook" width="60px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0a/Python.svg/1024px-Python.svg.png"/> 
     <img align="left" alt="Hazem Elmahy - Facebook" width="60px" src="https://d1yjjnpx0p53s8.cloudfront.net/styles/logo-thumbnail/s3/082014/js1_0.png?itok=9fCD5b30"/> 
     </div>
-
+<br/>
+<br/>
 <div> 
 <h3>Experienced with Django framework, Django RESTful API, ReactJs, ReduxJs, NextJs</h3>
     <img align="left" alt="Hazem Elmahy - Facebook" width="55px" src="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcRKmS_BIi6yXDibV1uu_OMcuyfaVfBTAh59wQ&usqp=CAU"/> 
