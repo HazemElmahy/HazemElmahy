@@ -25,7 +25,9 @@
 <div> 
     <img align="center" alt="SASS" width="50px" src="https://cdn.freebiesupply.com/logos/thumbs/2x/sass-1-logo.png"/> 
     <img align="center" alt="BOOTSTRAP" width="50px" src="https://pluspng.com/img-png/bootstrap-png-bootstrap-512.png"/> 
+    <img align="center" alt="BOOTSTRAP" width="50px" src="https://react.semantic-ui.com/logo.png"/> 
 ,..and more useless css stuff
+ 
 </div>
 <br/><br/>
 <h3> REACH ME: </h3>
