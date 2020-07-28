@@ -39,7 +39,7 @@
 <strong>...and more useless css stuff</strong>
  
 </div>
-<img align="center" alt="line" width="100px" src="https://www.serversdirect.co.uk/images/HP_Break.png"/> 
+
 <div> 
  <h3>Extra knowledge for a bigger brain:</h3>
     <img align="center" alt="Tensoflow" width="50px" src="https://seeklogo.com/images/T/tensorflow-logo-AE5100E55E-seeklogo.com.png"/> &nbsp;
