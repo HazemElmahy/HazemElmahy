@@ -4,11 +4,17 @@
 </h1>
 
 <h2> 
- 21 years old, <img align="center" alt="Python" width="60px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0a/Python.svg/1024px-Python.svg.png"/>  and  <img align="center" alt="JavaScript" width="60px" src="https://d1yjjnpx0p53s8.cloudfront.net/styles/logo-thumbnail/s3/082014/js1_0.png?itok=9fCD5b30"/> developer;
+ 21 years old,   and   developer;
 </h2>
 <br/>
 <div> 
 <h3>Web Devlopment stuff I have learned so far:</h3>
+ </div>
+ <div>
+  <img align="center" alt="Python" width="60px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0a/Python.svg/1024px-Python.svg.png"/>
+  <img align="center" alt="JavaScript" width="60px" src="https://d1yjjnpx0p53s8.cloudfront.net/styles/logo-thumbnail/s3/082014/js1_0.png?itok=9fCD5b30"/>
+ </div>
+ <div>
     <img align="center" alt="Django" width="55px" src="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcRKmS_BIi6yXDibV1uu_OMcuyfaVfBTAh59wQ&usqp=CAU"/> 
     <img align="center" alt="Django RESTful API" width="60px" src="https://files.realpython.com/media/djang-rest-framework-logo.37921ea75c09.png"/> 
     <img align="center" alt="ReactJs" width="60px" src="https://quintagroup.com/cms/js/js-image/react.js-logo.png/@@images/a9bf22bd-373a-4fae-a900-c22fd12c87c7.png"/> 
