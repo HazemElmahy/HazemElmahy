@@ -33,9 +33,6 @@
 <strong>...and more useless css stuff</strong>
  
 </div>
-
-<br/>
-
 <div> 
  <h3>Extra knowledge for a bigger brain:</h3>
     <img align="center" alt="Tensoflow" width="50px" src="https://seeklogo.com/images/T/tensorflow-logo-AE5100E55E-seeklogo.com.png"/> &nbsp;
