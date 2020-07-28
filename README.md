@@ -13,7 +13,7 @@
   <img align="center" alt="Python" width="50px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0a/Python.svg/1024px-Python.svg.png"/>
   <img align="center" alt="JavaScript" width="50px" src="https://d1yjjnpx0p53s8.cloudfront.net/styles/logo-thumbnail/s3/082014/js1_0.png?itok=9fCD5b30"/>
  </div>
- <br/>
+ <img align="center" alt="Django" width="100px" src="https://www.serversdirect.co.uk/images/HP_Break.png"/> 
  <div>
     <img align="center" alt="Django" width="55px" src="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcRKmS_BIi6yXDibV1uu_OMcuyfaVfBTAh59wQ&usqp=CAU"/> 
     <img align="center" alt="Django RESTful API" width="60px" src="https://files.realpython.com/media/djang-rest-framework-logo.37921ea75c09.png"/> 
