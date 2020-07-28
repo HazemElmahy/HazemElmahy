@@ -64,5 +64,3 @@
 <a href="https://www.facebook.com/hazemgamal23/">
   <img align="left" alt="Hazem Elmahy - Facebook" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg"/>
 </a>
-
-![HazemElmahy's github stats](https://github-readme-stats.vercel.app/api?username=HazemElmahy&show_icons=true)
