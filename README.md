@@ -1,4 +1,4 @@
-<h1>
+<!-- <h1>
 <img align="center" src="https://1.bp.blogspot.com/-YhQO9ZIZxTo/Xeucv6JwxJI/AAAAAAAADWk/qv-O0_FwHQ4hGt4H2AvG0tr_r5AF41iyQCLcBGAsYHQ/s1600/18.gif" alt="hi" width="100px">
  I'm Hazem Elmahy.
 </h1>
@@ -46,7 +46,7 @@
  <img align="center" alt="Pygame" width="65px" src="https://www.pygame.org/docs/pygame_small.gif"/> 
  
 </div>
-
+-->
 
 <br/><br/>
 <h3> REACH ME: </h3>
